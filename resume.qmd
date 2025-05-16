@@ -5,7 +5,7 @@ format: html
 
 # 📄 Resume
 
-You can view or download my full resume [here](resume.pdf){download=true}.
+You can view or download my full resume [here](resume.pdf.pdf){download=true}.
 
 ---
 
