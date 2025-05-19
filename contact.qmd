@@ -14,5 +14,5 @@ Thank you for exploring my portfolio! Feel free to reach out for collaborations,
 
 ## 🖇️ Resume & Links
 
-- 📄 [Download Resume](resume.pdf){download=true}  
+- 📄 [Download Resume](resume.pdf.pdf){download=true}  
 - 🌐 [GitHub Portfolio](file:///C:/Users/hp/OneDrive/Documents/mba-portfolio/index.html)

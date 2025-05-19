@@ -6,7 +6,7 @@ page-layout: full
 
 # 👋 Welcome to My Portfolio
 
-![Prince Heer Headshot](headshot.jpg){width=150px}
+![Prince Heer Headshot](headshot.jpg.jpg){width=150px}
 
 Hi! I'm **Prince Heer**, an MBA candidate at **University Canada West**, graduating in **September 2025**. With a background in **Commerce (B.Com)** and a strong interest in **finance, strategy, and innovation**, I aim to bridge analytical thinking with practical solutions.
 
